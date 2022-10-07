@@ -12,10 +12,10 @@
 
 ## React
 1. [hooks详解](./React/hooks详解.md)
-2. [`React setState`](./React/react-setState.md)
+2. [`react setState`](./React/react-setState.md)
 3. [react高阶使用](./React/react高阶使用.md)
-4. [React基础知识](./React/react基础知识.md)
-5. [Redux](./React/redux.md)
+4. [react基础知识](./React/react基础知识.md)
+5. [redux](./React/redux.md)
 
 ## JavaScript
 1. [浏览器渲染及动画](./JavaScript/浏览器渲染及动画.md)
