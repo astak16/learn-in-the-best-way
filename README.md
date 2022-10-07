@@ -29,9 +29,17 @@
 9. [js对象基本用法](./JavaScript/js对象基本用法.md)
 
 ## Git
-1. [常用的Git命令](./Git/常用的Git命令.md)
+1. [常用的Git命令](./Git/常用的git命令.md)
 
 ## 小程序
 1. [小程序读取json文件](./小程序/小程序读取json文件.md)
 2. [小程序中解决网络请求](./小程序/小程序中解决网络请求.md)
 3. [小程序中设置缓存过期](./小程序/小程序中设置缓存过期.md)
+
+## 其他
+### 配置
+1. [git配置](./其他/git配置.md)
+2. [新mac配置](./其他/新mac配置.md)
+3. [npm配置](./其他/npm配置.md)
+4. [webstorm配置](./其他/webstorm配置.md)
+5. [如何在github上使用GithubPage预览html](./其他/如何在github上使用GithubPage预览html.md)
