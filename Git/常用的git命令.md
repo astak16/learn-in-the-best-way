@@ -187,3 +187,9 @@ git remote set-url --add origin origin_url
 ```bash
 git remote add origin_name origin_url
 ```
+
+## 设置 git 仓库大小写敏感
+
+```bash
+git config core.ignorecase false
+```
