@@ -193,3 +193,9 @@ git remote add origin_name origin_url
 ```bash
 git config core.ignorecase false
 ```
+
+## 删除某个文件的 git 记录
+
+```bash
+git rm -r --cached 文件路径
+```
