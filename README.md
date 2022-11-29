@@ -34,6 +34,7 @@
 7. [js 基本语法](./JavaScript/js基本语法.md)
 8. [js 历史学习总结](./JavaScript/js历史学习总结.md)
 9. [js 对象基本用法](./JavaScript/js对象基本用法.md)
+10. [用原型实现 js 的私有属性、super、new 等](./JavaScript//%E7%94%A8%E5%8E%9F%E5%9E%8B%E5%AE%9E%E7%8E%B0js%E7%9A%84%E7%A7%81%E6%9C%89%E5%B1%9E%E6%80%A7%E3%80%81super%E3%80%81new%E7%AD%89.md)
 
 ## Git
 
